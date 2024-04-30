@@ -1,0 +1,2 @@
+This is the content from input file: This is a file for practice 
+ , created at Tue Apr 30 2024 13:38:28 GMT+0530 (India Standard Time)
